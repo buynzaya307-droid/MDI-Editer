@@ -1,0 +1,17 @@
+C:\Users\buynz\source\repos\MDI-Editer\bin\Debug\net8.0-windows\MDI-Editer.exe
+C:\Users\buynz\source\repos\MDI-Editer\bin\Debug\net8.0-windows\MDI-Editer.deps.json
+C:\Users\buynz\source\repos\MDI-Editer\bin\Debug\net8.0-windows\MDI-Editer.runtimeconfig.json
+C:\Users\buynz\source\repos\MDI-Editer\bin\Debug\net8.0-windows\MDI-Editer.dll
+C:\Users\buynz\source\repos\MDI-Editer\bin\Debug\net8.0-windows\MDI-Editer.pdb
+C:\Users\buynz\source\repos\MDI-Editer\obj\Debug\net8.0-windows\MDI_Editer.Form1.resources
+C:\Users\buynz\source\repos\MDI-Editer\obj\Debug\net8.0-windows\MDI-Editer.csproj.GenerateResource.cache
+C:\Users\buynz\source\repos\MDI-Editer\obj\Debug\net8.0-windows\MDI-Editer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buynz\source\repos\MDI-Editer\obj\Debug\net8.0-windows\MDI-Editer.AssemblyInfoInputs.cache
+C:\Users\buynz\source\repos\MDI-Editer\obj\Debug\net8.0-windows\MDI-Editer.AssemblyInfo.cs
+C:\Users\buynz\source\repos\MDI-Editer\obj\Debug\net8.0-windows\MDI-Editer.csproj.CoreCompileInputs.cache
+C:\Users\buynz\source\repos\MDI-Editer\obj\Debug\net8.0-windows\MDI-Editer.dll
+C:\Users\buynz\source\repos\MDI-Editer\obj\Debug\net8.0-windows\refint\MDI-Editer.dll
+C:\Users\buynz\source\repos\MDI-Editer\obj\Debug\net8.0-windows\MDI-Editer.pdb
+C:\Users\buynz\source\repos\MDI-Editer\obj\Debug\net8.0-windows\MDI-Editer.genruntimeconfig.cache
+C:\Users\buynz\source\repos\MDI-Editer\obj\Debug\net8.0-windows\ref\MDI-Editer.dll
+C:\Users\buynz\source\repos\MDI-Editer\obj\Debug\net8.0-windows\MDI-Editer.csproj.Up2Date
